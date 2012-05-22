@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shell", "Shell.csproj", "{41C4FE39-EEC2-42D5-9FB2-52E58FD9BE08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41C4FE39-EEC2-42D5-9FB2-52E58FD9BE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C4FE39-EEC2-42D5-9FB2-52E58FD9BE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C4FE39-EEC2-42D5-9FB2-52E58FD9BE08}.Debug|x86.ActiveCfg = Debug|x86
+		{41C4FE39-EEC2-42D5-9FB2-52E58FD9BE08}.Debug|x86.Build.0 = Debug|x86
+		{41C4FE39-EEC2-42D5-9FB2-52E58FD9BE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C4FE39-EEC2-42D5-9FB2-52E58FD9BE08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C4FE39-EEC2-42D5-9FB2-52E58FD9BE08}.Release|x86.ActiveCfg = Release|x86
+		{41C4FE39-EEC2-42D5-9FB2-52E58FD9BE08}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,4 +1,4 @@
 Shell
 =====
 
-Simple app providing console (text-based) user interface with command history and autocomplete.
+Simple app providing console (text-based) user interface with command history and autocomplete. And written in c#.
